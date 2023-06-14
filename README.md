@@ -9,14 +9,16 @@ For the original Myle Ott corpus please download it here: https://myleott.com/op
 
 This corpus contains:
 
-400 generated positive reviews
-400 generated negative reviews
+- 400 generated positive reviews
+- 400 generated negative reviews
 
 Each of the above datasets consist of 20 reviews for each of the 20 most popular Chicago hotels.
 The files are named according to the following conventions:
 
-Files are named according to the format %c_%h_%i.txt, where:
-%c denotes the class: (t)ruthful, (d)eceptive or (g)enerated
+Files are named according to the format used in the Myle Ott corpus: %c_%h_%i.txt, where:
+
+%c denotes the class: (t)ruthful, (d)eceptive or (g)enerated (in our case all are g)
+
 %h denotes the hotel:
 
 - affinia: Affinia Chicago (now MileNorth, A Chicago Hotel)
