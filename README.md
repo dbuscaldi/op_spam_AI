@@ -19,26 +19,27 @@ Files are named according to the format %c_%h_%i.txt, where:
 %c denotes the class: (t)ruthful, (d)eceptive or (g)enerated
 %h denotes the hotel:
 
-affinia: Affinia Chicago (now MileNorth, A Chicago Hotel)
-allegro: Hotel Allegro Chicago - a Kimpton Hotel
-amalfi: Amalfi Hotel Chicago
-ambassador: Ambassador East Hotel (now PUBLIC Chicago)
-conrad: Conrad Chicago
-fairmont: Fairmont Chicago Millennium Park
-hardrock: Hard Rock Hotel Chicago
-hilton: Hilton Chicago
-homewood: Homewood Suites by Hilton Chicago Downtown
-hyatt: Hyatt Regency Chicago
-intercontinental: InterContinental Chicago
-james: James Chicago
-knickerbocker: Millennium Knickerbocker Hotel Chicago
-monaco: Hotel Monaco Chicago - a Kimpton Hotel
-omni: Omni Chicago Hotel
-palmer: The Palmer House Hilton
-sheraton: Sheraton Chicago Hotel and Towers
-sofitel: Sofitel Chicago Water Tower
-swissotel: Swissotel Chicago
-talbott: The Talbott Hotel
+- affinia: Affinia Chicago (now MileNorth, A Chicago Hotel)
+- allegro: Hotel Allegro Chicago - a Kimpton Hotel
+- amalfi: Amalfi Hotel Chicago
+- ambassador: Ambassador East Hotel (now PUBLIC Chicago)
+- conrad: Conrad Chicago
+- fairmont: Fairmont Chicago Millennium Park
+- hardrock: Hard Rock Hotel Chicago
+- hilton: Hilton Chicago
+- homewood: Homewood Suites by Hilton Chicago Downtown
+- hyatt: Hyatt Regency Chicago
+- intercontinental: InterContinental Chicago
+- james: James Chicago
+- knickerbocker: Millennium Knickerbocker Hotel Chicago
+- monaco: Hotel Monaco Chicago - a Kimpton Hotel
+- omni: Omni Chicago Hotel
+- palmer: The Palmer House Hilton
+- sheraton: Sheraton Chicago Hotel and Towers
+- sofitel: Sofitel Chicago Water Tower
+- swissotel: Swissotel Chicago
+- talbott: The Talbott Hotel
+
 %i serves as a counter to make the filename unique
 
 ## References
