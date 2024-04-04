@@ -4,7 +4,7 @@ This dataset can be used to see if it's possible to distinguish automatically ge
 
 ## Overview
 This corpus consists of AI-generated hotel reviews of 20 Chicago hotels.
-These reviews were created by feeding to GPT-3 the first 10 words of truthful reviews from the <A HREF="https://myleott.com/op-spam.html">Myle Ott Opinion Spam corpus</A> and asking GPT-3 to complete for a length comparable to the length of the original review.
+These reviews were created by feeding to GPT-3 (or Llama) the first 10 words of truthful reviews from the <A HREF="https://myleott.com/op-spam.html">Myle Ott Opinion Spam corpus</A> and asking GPT-3 to complete for a length comparable to the length of the original review.
 
 For the original Myle Ott corpus please download it here: https://myleott.com/op_spam_v1.4.zip
 
@@ -44,6 +44,8 @@ Files are named according to the format used in the Myle Ott corpus: %c_%h_%i.tx
 - talbott: The Talbott Hotel
 
 %i serves as a counter to make the filename unique
+
+The paraphrased.zip file contains the same GPT-3 reviews paraphrased via the T5 paraphraser: https://huggingface.co/humarin/ chatgpt_paraphraser_on_T5_base 
 
 ## References
 
