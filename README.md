@@ -1,5 +1,5 @@
-# op_spam_GPT3
-AI-generated reviews (GPT-3) mirroring the famous Myle Ott's opinion spam dataset
+# op_spam_AI
+AI-generated reviews mirroring the famous Myle Ott's opinion spam dataset
 This dataset can be used to see if it's possible to distinguish automatically generated reviews from original ones (and fake ones written by humans).
 
 ## Overview
